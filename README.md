@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ShenZhen
+- 🌱 I’m currently learning Rust
+- 💬 Ask me about Front-end
+
 <!--
 **nooldey/nooldey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
