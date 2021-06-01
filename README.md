@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ShenZhen
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently working as an front-end developer
 - 💬 Ask me about Front-end
 
 #### Find me 📫
