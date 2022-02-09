@@ -6,8 +6,7 @@
 
 #### Find me 📫
 
-- My Blog： https://zhuweisheng.com.cn
-- My Blog Mirror: https://nooldey.github.io
+- My Blog: https://nooldey.github.io
 
 #### Friends
 
