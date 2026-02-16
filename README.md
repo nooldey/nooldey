@@ -8,8 +8,6 @@
 
 - My Blog: https://nooldey.github.io
 
-#### Friends
-
 
 <!--
 **nooldey/nooldey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
