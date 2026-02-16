@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ShenZhen
+- 🔭 I’m currently working on China
 - 🌱 I’m currently working as an front-end developer
 - 💬 Ask me about Front-end
 
@@ -10,7 +10,6 @@
 
 #### Friends
 
-- [ZWW](http://uiv5.com)
 
 <!--
 **nooldey/nooldey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
